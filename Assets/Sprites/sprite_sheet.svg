@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="sprite_sheet.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5378">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5380" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5382" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5370">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5372" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5374" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5362">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5364" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5366" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5354">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5356" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5358" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5348"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#8a5a72;stop-opacity:1;"
+         offset="0"
+         id="stop5350" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5354"
+       id="radialGradient5360"
+       cx="262.61014"
+       cy="260.02597"
+       fx="262.61014"
+       fy="260.02597"
+       r="6.5872498"
+       gradientTransform="matrix(0.21393978,0.1349986,-0.1077264,0.17072001,234.43905,180.18233)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5362"
+       id="radialGradient5368"
+       cx="263.22311"
+       cy="239.51364"
+       fx="263.22311"
+       fy="239.51364"
+       r="8.2550631"
+       gradientTransform="matrix(0.15658094,0.29402786,-0.18516886,0.09860933,266.35786,138.50042)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5370"
+       id="radialGradient5376"
+       cx="132.4753"
+       cy="261.18372"
+       fx="132.4753"
+       fy="261.18372"
+       r="6.6952562"
+       gradientTransform="matrix(0.19383566,0.13130685,-0.09901133,0.14616091,132.65701,205.61398)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5378"
+       id="radialGradient5384"
+       cx="132.0739"
+       cy="240.70219"
+       fx="132.0739"
+       fy="240.70219"
+       r="8.4771452"
+       gradientTransform="matrix(0.14394853,0.13976481,-0.19185454,0.19759751,159.24186,174.68076)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="219.75573"
+     inkscape:cy="697.54258"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#f0e8ec;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 534.28571,326.6479 c 29.68689,-85.03449 151.90797,-94.70465 185.83592,-37.71856 2.79141,62.57079 37.61717,191.84087 -60.94692,177.13061 -93.64073,-10.76588 -188.43575,5.4179 -281.70886,-9.12328 -74.03893,-33.32192 -158.15099,-91.80282 -242.2564,-42.958 -61.453042,51.65342 -138.720522,29.90794 -213.491832,28.28317 -81.200728,11.55963 -167.382468,-66.30048 -87.424628,-134.84091 29.32845,-40.33329 35.21649,-72.31348 76.338924,-26.59977 68.582099,28.53539 194.977866,31.19395 176.005403,-76.29117 64.858833,-17.31701 160.499873,-33.71331 237.922473,-26.90684 -37.03593,81.41423 74.85518,118.01047 137.24053,111.00009 23.37061,2.07359 45.75609,6.45885 72.48539,38.02466 z"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <g
+       id="g5475"
+       transform="translate(-0.37881262,1.8940342)"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\capn_doubletree.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <g
+         id="g5477"
+         style="fill:#84683c;fill-opacity:1"
+         transform="matrix(0.34722733,0,0,0.34722733,446.01226,276.53314)">
+        <path
+           id="path5479"
+           d="m 575.6875,73.125 c -0.84245,0.0099 -1.67989,0.153712 -2.4375,0.40625 -6.06092,2.020305 -9.07265,10.085182 -8.0625,17.15625 1.01015,7.071068 4.03125,9.59375 4.03125,9.59375 l -9.09375,0 -17.6875,14.15625 13.65625,20.71875 -11.625,15.65625 12.625,22.21875 -1.5,10.09375 13.125,0 0,-10.59375 -3.53125,-17.6875 14.625,-9.09375 14.15625,7.5625 -4.53125,21.71875 0,8.09375 13.125,0 -2.03125,-8.59375 9.59375,-26.75 -11.09375,-13.65625 14.125,-20.6875 L 596,100.28125 l -10.125,0 c 0,0 3.03125,-4.533627 3.03125,-13.625 0,-7.954951 -7.32159,-13.600303 -13.21875,-13.53125 z M 596,111.90625 l 4.53125,3.53125 -4.03125,7.59375 -0.5,-11.125 z m -33.84375,2.03125 3.03125,14.625 -7.59375,-10.59375 4.5625,-4.03125 z"
+           style="fill:#84683c;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccsc"
+           inkscape:connector-curvature="0"
+           id="path5481"
+           d="m 572.76786,91.469323 9.91071,-0.267857 c 0,0 1.38509,2.564073 -1.96428,2.857143 -7.14286,0.625 -7.94643,-2.589286 -7.94643,-2.589286 z"
+           style="fill:#84683c;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cssc"
+           inkscape:connector-curvature="0"
+           id="path5483"
+           d="m 578.75,85.130038 c 0,0 0.35714,-1.607144 2.05357,-1.785715 1.69642,-0.178571 3.75,0.535715 3.48214,1.607143 -0.26786,1.071429 -5.53571,0.178572 -5.53571,0.178572 z"
+           style="fill:#84683c;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5485"
+           d="m 570.53571,85.010113 c 0,0 3.30357,0.892857 5.80357,-0.08929"
+           style="fill:#84683c;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         style="fill:#573c84;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 642.07953,305.67585 c 0,0 -1.57519,-0.84361 -1.26269,-2.54004 l 7.57614,-3.77341 c 0,0 1.21871,0.0759 0.63135,0.75761 -1.0841,1.25818 -0.14925,1.52924 -0.14925,1.52924 l 2.04328,-1.40297 -1.8647,2.05663 z"
+         id="path5487"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccscccc" />
+    </g>
+    <g
+       transform="matrix(0.415694,0,0,0.415694,111.79752,290.44043)"
+       id="g3804"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#c9cbe1;fill-opacity:1;stroke:#797979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -310.625,92.1875 c -0.37945,0.02387 -0.77481,0.0611 -1.15625,0.125 -5.48381,0.700665 -3.88033,7.77604 -4.125,11.75 -0.0423,4.67214 1.36727,10.21403 -0.65625,14.34375 -7.01499,2.87713 -14.70758,0.12304 -22,1.09375 0.27602,2.90513 1.7067,5.82948 4.28125,7.34375 8.01226,-3.04192 13.4048,-0.47428 20.03125,-0.96875 7.29571,0.16403 14.46938,-1.50802 21.71875,-2 5.48264,0.2261 10.59083,-2.18837 16,-2.78125 4.67619,-1.1926 9.4908,0.49427 14.0625,-0.65625 6.30761,-0.82529 11.27644,4.25128 14.375,9.125 2.27502,-4.88502 0.53486,-10.41571 0.8125,-15.59375 -0.53381,-4.75285 2.22608,-8.42778 4.625,-12.09375 -1.35341,-4.978938 0.6471,-9.76555 -3.6875,-6.0625 -5.10102,4.41331 -11.39394,7.14604 -17.78125,9.125 -3.15329,1.52799 -7.84038,1.62663 -9.5625,-2.03125 -2.72306,-3.0626 1.1932,-8.275117 -2.65625,-10.03125 -5.75777,-2.368549 -11.55301,2.699773 -17.40625,0.96875 -5.70445,1.815998 -11.1832,-2.014268 -16.875,-1.65625 z m 2.03125,6.09375 21.71875,0 0,13.125 -21.71875,0 0,-13.125 z"
+         id="path3806" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.70538604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -320.21836,132.55109 5.55584,-6.53407 5.55584,6.78538"
+         id="path3808"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.78845388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -280.82241,132.16181 6.06092,-10.67551 6.56599,10.67551"
+         id="path3810"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3812"
+       transform="matrix(0.415694,0,0,0.415694,113.79752,292.44043)"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         id="path3814"
+         d="m -310.625,92.1875 c -0.37945,0.02387 -0.77481,0.0611 -1.15625,0.125 -5.48381,0.700665 -3.88033,7.77604 -4.125,11.75 -0.0423,4.67214 1.36727,10.21403 -0.65625,14.34375 -7.01499,2.87713 -14.70758,0.12304 -22,1.09375 0.27602,2.90513 1.7067,5.82948 4.28125,7.34375 8.01226,-3.04192 13.4048,-0.47428 20.03125,-0.96875 7.29571,0.16403 14.46938,-1.50802 21.71875,-2 5.48264,0.2261 10.59083,-2.18837 16,-2.78125 4.67619,-1.1926 9.4908,0.49427 14.0625,-0.65625 6.30761,-0.82529 11.27644,4.25128 14.375,9.125 2.27502,-4.88502 0.53486,-10.41571 0.8125,-15.59375 -0.53381,-4.75285 2.22608,-8.42778 4.625,-12.09375 -1.35341,-4.978938 0.6471,-9.76555 -3.6875,-6.0625 -5.10102,4.41331 -11.39394,7.14604 -17.78125,9.125 -3.15329,1.52799 -7.84038,1.62663 -9.5625,-2.03125 -2.72306,-3.0626 1.1932,-8.275117 -2.65625,-10.03125 -5.75777,-2.368549 -11.55301,2.699773 -17.40625,0.96875 -5.70445,1.815998 -11.1832,-2.014268 -16.875,-1.65625 z m 2.03125,6.09375 21.71875,0 0,13.125 -21.71875,0 0,-13.125 z"
+         style="fill:#c9cbe1;fill-opacity:1;stroke:#797979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3816"
+         d="m -320.21836,132.55109 5.55584,-6.53407 5.55584,6.78538"
+         style="fill:none;stroke:#000000;stroke-width:0.70538604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3818"
+         d="m -280.82241,132.16181 6.06092,-10.67551 6.56599,10.67551"
+         style="fill:none;stroke:#000000;stroke-width:0.78845388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.415694,0,0,0.415694,115.79752,294.44043)"
+       id="g3820"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#c9cbe1;fill-opacity:1;stroke:#797979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -310.625,92.1875 c -0.37945,0.02387 -0.77481,0.0611 -1.15625,0.125 -5.48381,0.700665 -3.88033,7.77604 -4.125,11.75 -0.0423,4.67214 1.36727,10.21403 -0.65625,14.34375 -7.01499,2.87713 -14.70758,0.12304 -22,1.09375 0.27602,2.90513 1.7067,5.82948 4.28125,7.34375 8.01226,-3.04192 13.4048,-0.47428 20.03125,-0.96875 7.29571,0.16403 14.46938,-1.50802 21.71875,-2 5.48264,0.2261 10.59083,-2.18837 16,-2.78125 4.67619,-1.1926 9.4908,0.49427 14.0625,-0.65625 6.30761,-0.82529 11.27644,4.25128 14.375,9.125 2.27502,-4.88502 0.53486,-10.41571 0.8125,-15.59375 -0.53381,-4.75285 2.22608,-8.42778 4.625,-12.09375 -1.35341,-4.978938 0.6471,-9.76555 -3.6875,-6.0625 -5.10102,4.41331 -11.39394,7.14604 -17.78125,9.125 -3.15329,1.52799 -7.84038,1.62663 -9.5625,-2.03125 -2.72306,-3.0626 1.1932,-8.275117 -2.65625,-10.03125 -5.75777,-2.368549 -11.55301,2.699773 -17.40625,0.96875 -5.70445,1.815998 -11.1832,-2.014268 -16.875,-1.65625 z m 2.03125,6.09375 21.71875,0 0,13.125 -21.71875,0 0,-13.125 z"
+         id="path3822" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.70538604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -320.21836,132.55109 5.55584,-6.53407 5.55584,6.78538"
+         id="path3824"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.78845388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -280.82241,132.16181 6.06092,-10.67551 6.56599,10.67551"
+         id="path3826"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3828"
+       transform="matrix(0.415694,0,0,0.415694,117.79752,296.44043)"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         id="path3830"
+         d="m -310.625,92.1875 c -0.37945,0.02387 -0.77481,0.0611 -1.15625,0.125 -5.48381,0.700665 -3.88033,7.77604 -4.125,11.75 -0.0423,4.67214 1.36727,10.21403 -0.65625,14.34375 -7.01499,2.87713 -14.70758,0.12304 -22,1.09375 0.27602,2.90513 1.7067,5.82948 4.28125,7.34375 8.01226,-3.04192 13.4048,-0.47428 20.03125,-0.96875 7.29571,0.16403 14.46938,-1.50802 21.71875,-2 5.48264,0.2261 10.59083,-2.18837 16,-2.78125 4.67619,-1.1926 9.4908,0.49427 14.0625,-0.65625 6.30761,-0.82529 11.27644,4.25128 14.375,9.125 2.27502,-4.88502 0.53486,-10.41571 0.8125,-15.59375 -0.53381,-4.75285 2.22608,-8.42778 4.625,-12.09375 -1.35341,-4.978938 0.6471,-9.76555 -3.6875,-6.0625 -5.10102,4.41331 -11.39394,7.14604 -17.78125,9.125 -3.15329,1.52799 -7.84038,1.62663 -9.5625,-2.03125 -2.72306,-3.0626 1.1932,-8.275117 -2.65625,-10.03125 -5.75777,-2.368549 -11.55301,2.699773 -17.40625,0.96875 -5.70445,1.815998 -11.1832,-2.014268 -16.875,-1.65625 z m 2.03125,6.09375 21.71875,0 0,13.125 -21.71875,0 0,-13.125 z"
+         style="fill:#c9cbe1;fill-opacity:1;stroke:#797979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3832"
+         d="m -320.21836,132.55109 5.55584,-6.53407 5.55584,6.78538"
+         style="fill:none;stroke:#000000;stroke-width:0.70538604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3834"
+         d="m -280.82241,132.16181 6.06092,-10.67551 6.56599,10.67551"
+         style="fill:none;stroke:#000000;stroke-width:0.78845388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.415694,0,0,0.415694,119.79752,298.44043)"
+       id="g3836"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#c9cbe1;fill-opacity:1;stroke:#797979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -310.625,92.1875 c -0.37945,0.02387 -0.77481,0.0611 -1.15625,0.125 -5.48381,0.700665 -3.88033,7.77604 -4.125,11.75 -0.0423,4.67214 1.36727,10.21403 -0.65625,14.34375 -7.01499,2.87713 -14.70758,0.12304 -22,1.09375 0.27602,2.90513 1.7067,5.82948 4.28125,7.34375 8.01226,-3.04192 13.4048,-0.47428 20.03125,-0.96875 7.29571,0.16403 14.46938,-1.50802 21.71875,-2 5.48264,0.2261 10.59083,-2.18837 16,-2.78125 4.67619,-1.1926 9.4908,0.49427 14.0625,-0.65625 6.30761,-0.82529 11.27644,4.25128 14.375,9.125 2.27502,-4.88502 0.53486,-10.41571 0.8125,-15.59375 -0.53381,-4.75285 2.22608,-8.42778 4.625,-12.09375 -1.35341,-4.978938 0.6471,-9.76555 -3.6875,-6.0625 -5.10102,4.41331 -11.39394,7.14604 -17.78125,9.125 -3.15329,1.52799 -7.84038,1.62663 -9.5625,-2.03125 -2.72306,-3.0626 1.1932,-8.275117 -2.65625,-10.03125 -5.75777,-2.368549 -11.55301,2.699773 -17.40625,0.96875 -5.70445,1.815998 -11.1832,-2.014268 -16.875,-1.65625 z m 2.03125,6.09375 21.71875,0 0,13.125 -21.71875,0 0,-13.125 z"
+         id="path3838" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.70538604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -320.21836,132.55109 5.55584,-6.53407 5.55584,6.78538"
+         id="path3840"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.78845388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -280.82241,132.16181 6.06092,-10.67551 6.56599,10.67551"
+         id="path3842"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3844"
+       transform="matrix(0.415694,0,0,0.415694,121.79752,300.44043)"
+       style="stroke:#797979;stroke-opacity:1"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         id="path3846"
+         d="m -310.625,92.1875 c -0.37945,0.02387 -0.77481,0.0611 -1.15625,0.125 -5.48381,0.700665 -3.88033,7.77604 -4.125,11.75 -0.0423,4.67214 1.36727,10.21403 -0.65625,14.34375 -7.01499,2.87713 -14.70758,0.12304 -22,1.09375 0.27602,2.90513 1.7067,5.82948 4.28125,7.34375 8.01226,-3.04192 13.4048,-0.47428 20.03125,-0.96875 7.29571,0.16403 14.46938,-1.50802 21.71875,-2 5.48264,0.2261 10.59083,-2.18837 16,-2.78125 4.67619,-1.1926 9.4908,0.49427 14.0625,-0.65625 6.30761,-0.82529 11.27644,4.25128 14.375,9.125 2.27502,-4.88502 0.53486,-10.41571 0.8125,-15.59375 -0.53381,-4.75285 2.22608,-8.42778 4.625,-12.09375 -1.35341,-4.978938 0.6471,-9.76555 -3.6875,-6.0625 -5.10102,4.41331 -11.39394,7.14604 -17.78125,9.125 -3.15329,1.52799 -7.84038,1.62663 -9.5625,-2.03125 -2.72306,-3.0626 1.1932,-8.275117 -2.65625,-10.03125 -5.75777,-2.368549 -11.55301,2.699773 -17.40625,0.96875 -5.70445,1.815998 -11.1832,-2.014268 -16.875,-1.65625 z m 2.03125,6.09375 21.71875,0 0,13.125 -21.71875,0 0,-13.125 z"
+         style="fill:#c9cbe1;fill-opacity:1;stroke:#797979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3848"
+         d="m -320.21836,132.55109 5.55584,-6.53407 5.55584,6.78538"
+         style="fill:none;stroke:#797979;stroke-width:0.70538604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3850"
+         d="m -280.82241,132.16181 6.06092,-10.67551 6.56599,10.67551"
+         style="fill:none;stroke:#797979;stroke-width:0.78845388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.415694,0,0,0.415694,123.79752,302.44043)"
+       id="g3852"
+       style="stroke:#797979;stroke-opacity:1"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#c9cbe1;fill-opacity:1;stroke:#797979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -310.625,92.1875 c -0.37945,0.02387 -0.77481,0.0611 -1.15625,0.125 -5.48381,0.700665 -3.88033,7.77604 -4.125,11.75 -0.0423,4.67214 1.36727,10.21403 -0.65625,14.34375 -7.01499,2.87713 -14.70758,0.12304 -22,1.09375 0.27602,2.90513 1.7067,5.82948 4.28125,7.34375 8.01226,-3.04192 13.4048,-0.47428 20.03125,-0.96875 7.29571,0.16403 14.46938,-1.50802 21.71875,-2 5.48264,0.2261 10.59083,-2.18837 16,-2.78125 4.67619,-1.1926 9.4908,0.49427 14.0625,-0.65625 6.30761,-0.82529 11.27644,4.25128 14.375,9.125 2.27502,-4.88502 0.53486,-10.41571 0.8125,-15.59375 -0.53381,-4.75285 2.22608,-8.42778 4.625,-12.09375 -1.35341,-4.978938 0.6471,-9.76555 -3.6875,-6.0625 -5.10102,4.41331 -11.39394,7.14604 -17.78125,9.125 -3.15329,1.52799 -7.84038,1.62663 -9.5625,-2.03125 -2.72306,-3.0626 1.1932,-8.275117 -2.65625,-10.03125 -5.75777,-2.368549 -11.55301,2.699773 -17.40625,0.96875 -5.70445,1.815998 -11.1832,-2.014268 -16.875,-1.65625 z m 2.03125,6.09375 21.71875,0 0,13.125 -21.71875,0 0,-13.125 z"
+         id="path3854" />
+      <path
+         style="fill:none;stroke:#797979;stroke-width:0.70538604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -320.21836,132.55109 5.55584,-6.53407 5.55584,6.78538"
+         id="path3856"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#797979;stroke-width:0.78845388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -280.82241,132.16181 6.06092,-10.67551 6.56599,10.67551"
+         id="path3858"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3860"
+       transform="matrix(0.415694,0,0,0.415694,125.79752,304.44043)"
+       style="stroke:#797979;stroke-opacity:1"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         id="path3862"
+         d="m -310.625,92.1875 c -0.37945,0.02387 -0.77481,0.0611 -1.15625,0.125 -5.48381,0.700665 -3.88033,7.77604 -4.125,11.75 -0.0423,4.67214 1.36727,10.21403 -0.65625,14.34375 -7.01499,2.87713 -14.70758,0.12304 -22,1.09375 0.27602,2.90513 1.7067,5.82948 4.28125,7.34375 8.01226,-3.04192 13.4048,-0.47428 20.03125,-0.96875 7.29571,0.16403 14.46938,-1.50802 21.71875,-2 5.48264,0.2261 10.59083,-2.18837 16,-2.78125 4.67619,-1.1926 9.4908,0.49427 14.0625,-0.65625 6.30761,-0.82529 11.27644,4.25128 14.375,9.125 2.27502,-4.88502 0.53486,-10.41571 0.8125,-15.59375 -0.53381,-4.75285 2.22608,-8.42778 4.625,-12.09375 -1.35341,-4.978938 0.6471,-9.76555 -3.6875,-6.0625 -5.10102,4.41331 -11.39394,7.14604 -17.78125,9.125 -3.15329,1.52799 -7.84038,1.62663 -9.5625,-2.03125 -2.72306,-3.0626 1.1932,-8.275117 -2.65625,-10.03125 -5.75777,-2.368549 -11.55301,2.699773 -17.40625,0.96875 -5.70445,1.815998 -11.1832,-2.014268 -16.875,-1.65625 z m 2.03125,6.09375 21.71875,0 0,13.125 -21.71875,0 0,-13.125 z"
+         style="fill:#c9cbe1;fill-opacity:1;stroke:#797979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3864"
+         d="m -320.21836,132.55109 5.55584,-6.53407 5.55584,6.78538"
+         style="fill:none;stroke:#797979;stroke-width:0.70538604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3866"
+         d="m -280.82241,132.16181 6.06092,-10.67551 6.56599,10.67551"
+         style="fill:none;stroke:#797979;stroke-width:0.78845388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.415694,0,0,0.415694,127.79752,306.44043)"
+       id="g3868"
+       style="stroke:#797979;stroke-opacity:1"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#c9cbe1;fill-opacity:1;stroke:#797979;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -310.625,92.1875 c -0.37945,0.02387 -0.77481,0.0611 -1.15625,0.125 -5.48381,0.700665 -3.88033,7.77604 -4.125,11.75 -0.0423,4.67214 1.36727,10.21403 -0.65625,14.34375 -7.01499,2.87713 -14.70758,0.12304 -22,1.09375 0.27602,2.90513 1.7067,5.82948 4.28125,7.34375 8.01226,-3.04192 13.4048,-0.47428 20.03125,-0.96875 7.29571,0.16403 14.46938,-1.50802 21.71875,-2 5.48264,0.2261 10.59083,-2.18837 16,-2.78125 4.67619,-1.1926 9.4908,0.49427 14.0625,-0.65625 6.30761,-0.82529 11.27644,4.25128 14.375,9.125 2.27502,-4.88502 0.53486,-10.41571 0.8125,-15.59375 -0.53381,-4.75285 2.22608,-8.42778 4.625,-12.09375 -1.35341,-4.978938 0.6471,-9.76555 -3.6875,-6.0625 -5.10102,4.41331 -11.39394,7.14604 -17.78125,9.125 -3.15329,1.52799 -7.84038,1.62663 -9.5625,-2.03125 -2.72306,-3.0626 1.1932,-8.275117 -2.65625,-10.03125 -5.75777,-2.368549 -11.55301,2.699773 -17.40625,0.96875 -5.70445,1.815998 -11.1832,-2.014268 -16.875,-1.65625 z m 2.03125,6.09375 21.71875,0 0,13.125 -21.71875,0 0,-13.125 z"
+         id="path3870" />
+      <path
+         style="fill:none;stroke:#797979;stroke-width:0.70538604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -320.21836,132.55109 5.55584,-6.53407 5.55584,6.78538"
+         id="path3872"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#797979;stroke-width:0.78845388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -280.82241,132.16181 6.06092,-10.67551 6.56599,10.67551"
+         id="path3874"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#a27089;fill-opacity:1;stroke:#000000;stroke-width:1.11887096999999990px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.28571,219.36792 164.57143,-27.72002 33.57143,112.66851 -199.57143,0 z"
+       id="path3876"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#396621;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2991"
+       sodipodi:cx="198.57143"
+       sodipodi:cy="249.50504"
+       sodipodi:rx="10"
+       sodipodi:ry="10"
+       d="m 208.57143,249.50504 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       d="m 208.57143,249.50504 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       sodipodi:ry="10"
+       sodipodi:rx="10"
+       sodipodi:cy="249.50504"
+       sodipodi:cx="198.57143"
+       id="path2993"
+       style="fill:#ffffff;fill-opacity:1;stroke:#396621;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       transform="translate(256.7716,120.161)"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       transform="translate(452.85714,127.27412)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#396621;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2995"
+       sodipodi:cx="198.57143"
+       sodipodi:cy="249.50504"
+       sodipodi:rx="10"
+       sodipodi:ry="10"
+       d="m 208.57143,249.50504 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       d="m 208.57143,249.50504 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       sodipodi:ry="10"
+       sodipodi:rx="10"
+       sodipodi:cy="249.50504"
+       sodipodi:cx="198.57143"
+       id="path2997"
+       style="fill:#ffffff;fill-opacity:1;stroke:#396621;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc"
+       transform="translate(-132.85715,104.85714)"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       transform="translate(-305.82525,139.69797)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#396621;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2999"
+       sodipodi:cx="198.57143"
+       sodipodi:cy="249.50504"
+       sodipodi:rx="10"
+       sodipodi:ry="10"
+       d="m 208.57143,249.50504 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -195.46452,371.82139 303.55084,0"
+       id="path3802"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.57143,234.50504 2.85714,37.14286 20.71429,0 3.57143,-48.57143 z"
+       id="path3882"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 272.14286,270.93361 3.57143,-41.42857 -25,-10 0.71428,52.85714 z"
+       id="path3884"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:url(#radialGradient5384);stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 135.1079,232.87593 c -9.69492,-3.31511 -16.80659,17.32222 -4.37332,15.94778 7.74437,-0.27521 14.11222,-14.19461 4.37332,-15.94778 z"
+       id="path3890"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:url(#radialGradient5376);stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 133.34014,256.86705 c -11.21592,-5.3189 -8.0188,13.14177 2.24198,8.99053 6.65348,-0.058 0.96228,-8.20364 -2.24198,-8.99053 z"
+       id="path3892"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:url(#radialGradient5368);stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 269.49155,248.26434 c -10.36299,5.36417 -16.25957,-9.25848 -13.2282,-17.5475 5.42202,-6.06612 19.2423,14.62809 13.2282,17.5475 z"
+       id="path3894"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill:url(#radialGradient5360)"
+       d="m 263.14474,254.84675 c -12.46249,-2.42416 -5.18336,16.28894 4.22061,8.79393 3.20006,-3.09917 0.17611,-9.23889 -4.22061,-8.79393 z"
+       id="path3896"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       id="path5390"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 277.79195,303.83915 164.65486,85.86296 139.40106,0 m -285.87318,-123.07617 148.9975,80.81221 135.86552,-1.01016"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR ESSENCE;-inkscape-font-specification:AR ESSENCE"
+       x="624.27429"
+       y="406.87469"
+       id="text5393"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5395"
+         x="624.27429"
+         y="406.87469"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Days One;-inkscape-font-specification:Days One">Bridge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR ESSENCE;-inkscape-font-specification:AR ESSENCE"
+       x="402.61636"
+       y="408.12549"
+       id="text5393-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5395-7"
+         x="402.61636"
+         y="408.12549"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Days One;-inkscape-font-specification:Days One">Transit Tube</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5418"
+       y="292.96811"
+       x="138.96655"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR ESSENCE;-inkscape-font-specification:AR ESSENCE"
+       xml:space="preserve"><tspan
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Days One;-inkscape-font-specification:Days One"
+         y="292.96811"
+         x="138.96655"
+         id="tspan5420"
+         sodipodi:role="line">Club Sammich</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR ESSENCE;-inkscape-font-specification:AR ESSENCE"
+       x="-5.6680069"
+       y="391.76001"
+       id="text5422"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5424"
+         x="-5.6680069"
+         y="391.76001"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Days One;-inkscape-font-specification:Days One">Launch Cavern</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5426"
+       y="418.02399"
+       x="-160.11981"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR ESSENCE;-inkscape-font-specification:AR ESSENCE"
+       xml:space="preserve"><tspan
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Days One;-inkscape-font-specification:Days One"
+         y="418.02399"
+         x="-160.11981"
+         id="tspan5428"
+         sodipodi:role="line">Star Dolphin</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.49408066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 665.76653,312.42094 4.43652,27.25657 1.40906,-8.33586 7.01763,-2.20572 2.05434,11.53978 0,-15.17964 -9.98193,1.20492 -3.49368,-18.46658 z"
+       id="path5430"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.49408066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 683.64974,340.18906 1.14697,-15.79293 4.05852,-8.55819 12.79316,-0.35291"
+       id="path5432"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.49408066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 687.79648,317.69075 -4.76434,-0.44115 -0.44115,4.23498 2.91155,1.32343"
+       id="path5434"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.49408066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 681.26756,314.1616 -0.88229,8.46995 1.2352,0.17646 0.79407,-8.9111 z"
+       id="path5436"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 663.16515,340.20464 44.95178,0"
+       id="path5459"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\ship.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR DESTINE;-inkscape-font-specification:AR DESTINE"
+       x="376.13269"
+       y="220.62183"
+       id="text5463"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5465"
+         x="376.13269"
+         y="220.62183">Wild Wild Westin</tspan></text>
+    <g
+       id="g3797"
+       transform="matrix(1.5291574,0,0,1.5291574,337.74679,169.42385)"
+       inkscape:export-filename="E:\mixer_demo\Assets\Sprites\dolphin.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         id="path3001"
+         d="m -310.625,92.1875 c -0.37945,0.02387 -0.77481,0.0611 -1.15625,0.125 -5.48381,0.700665 -3.88033,7.77604 -4.125,11.75 -0.0423,4.67214 1.36727,10.21403 -0.65625,14.34375 -7.01499,2.87713 -14.70758,0.12304 -22,1.09375 0.27602,2.90513 1.7067,5.82948 4.28125,7.34375 8.01226,-3.04192 13.4048,-0.47428 20.03125,-0.96875 7.29571,0.16403 14.46938,-1.50802 21.71875,-2 5.48264,0.2261 10.59083,-2.18837 16,-2.78125 4.67619,-1.1926 9.4908,0.49427 14.0625,-0.65625 6.30761,-0.82529 11.27644,4.25128 14.375,9.125 2.27502,-4.88502 0.53486,-10.41571 0.8125,-15.59375 -0.53381,-4.75285 2.22608,-8.42778 4.625,-12.09375 -1.35341,-4.978938 0.6471,-9.76555 -3.6875,-6.0625 -5.10102,4.41331 -11.39394,7.14604 -17.78125,9.125 -3.15329,1.52799 -7.84038,1.62663 -9.5625,-2.03125 -2.72306,-3.0626 1.1932,-8.275117 -2.65625,-10.03125 -5.75777,-2.368549 -11.55301,2.699773 -17.40625,0.96875 -5.70445,1.815998 -11.1832,-2.014268 -16.875,-1.65625 z m 2.03125,6.09375 21.71875,0 0,13.125 -21.71875,0 0,-13.125 z"
+         style="fill:#636bac;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3014"
+         d="m -320.21836,132.55109 5.55584,-6.53407 5.55584,6.78538"
+         style="fill:none;stroke:#000000;stroke-width:0.70538604px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3016"
+         d="m -280.82241,132.16181 6.06092,-10.67551 6.56599,10.67551"
+         style="fill:none;stroke:#000000;stroke-width:0.78845388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
